@@ -50,12 +50,12 @@ Conversion and Numeric statistics using Bayesian
 
 ### Run the application
 
-# To run converstion
+#To run converstion
 ```sh
  > poc_bay_PTB.py
 ```
 
-# To run numeric
+#To run numeric
 ```sh
  > poc_bay_revenue.py
 ```
