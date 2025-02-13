@@ -41,21 +41,35 @@ Conversion and Numeric statistics using Bayesian
 ### Install Python Packages
 
 ```sh
+Run the below command based on python version. 
+#if python3 
+1. pip3 install numpy
+2. pip3 install scipy
+3. pip3 install matplotlib
+4. pip3 install seaborn
+5. pip3 install tabulate
+
+#if python 
 1. pip install numpy
 2. pip install scipy
 3. pip install matplotlib
 4. pip install seaborn
 5. pip install tabulate
+
 ```
 
 ### Run the application
 
 #To run converstion
 ```sh
- > poc_bay_PTB.py
+ > python3 poc_bay_PTB.py
+ or
+ > python poc_bay_PTB.py
 ```
 
 #To run numeric
 ```sh
- > poc_bay_revenue.py
+ > python3 poc_bay_revenue.py
+ or
+ > python poc_bay_revenue.py
 ```
